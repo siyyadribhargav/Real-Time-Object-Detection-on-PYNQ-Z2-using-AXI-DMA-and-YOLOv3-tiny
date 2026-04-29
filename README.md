@@ -37,3 +37,9 @@ Real-time object detection system using PYNQ-Z2 board with PS+PL co-design.
 - Speed: 1-3 FPS on ARM Cortex-A9
 - Confidence threshold: 0.15
 - NMS threshold: 0.30
+
+## Download Model Weights
+yolov3-tiny.weights is too large for GitHub (34MB).
+Download it from:
+https://pjreddie.com/media/files/yolov3-tiny.weights
+Place it in the model/ folder on your PYNQ board.
